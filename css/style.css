@@ -11,16 +11,22 @@ h1{
 .post1{
   font-family: cursive;
   color: blue;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 .post2{
   font-family: fantasy;
   color: orange;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 .post3{
   font-family: monospace;
   color: green;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 .omg{
