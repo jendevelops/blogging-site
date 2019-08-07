@@ -1,0 +1,29 @@
+h1{
+  text-align: center;
+}
+
+.aboutme {
+  font-size: 75%;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.post1{
+  font-family: cursive;
+  color: blue;
+}
+
+.post2{
+  font-family: fantasy;
+  color: orange;
+}
+
+.post3{
+  font-family: monospace;
+  color: green;
+}
+
+.omg{
+  color: red;
+  font-weight: bold;
+}
